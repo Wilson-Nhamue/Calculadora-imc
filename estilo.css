@@ -11,7 +11,7 @@
 body {
     margin: 0;
     padding: 0;
-    background: var(--primary-color);
+    background: rgb(19, 19, 65);
     font-family: 'open sans', sans-serif;
     font-size: 1.3em;
     line-height: 1.5em;
